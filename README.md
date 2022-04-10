@@ -1,6 +1,10 @@
 
 # 🎮 NFT FPS Shooter Blockchain Game 
 
+![unity](https://img.shields.io/static/v1?label=made%20with&message=unity&logo=Unity&color=blue)
+![unity](https://img.shields.io/badge/made%20with-moralis-brightgreen.svg?style=flat)
+
+
 This project is a replica from the FPS game that was presented on the [Build Web3 Unity Game | NFT FPS Shooter Blockchain Game using Moralis, Unity, C#](https://www.youtube.com/watch?v=KBmaji1E2LY) youtube video.  
 
 The goal was to teach how to use Moralis Unity SDK.
