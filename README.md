@@ -14,7 +14,7 @@ Then, after defeating the boss, the player can claim an NFT on Mumbai Testnet.
 
 ## Preview
 
-![preview](https://user-images.githubusercontent.com/16388408/162635013-9e2fe87c-7524-4b67-8e3b-bbbdb5f1796f.gif)
+![preview](https://user-images.githubusercontent.com/16388408/162635013-9e2fe87c-7524-4b67-8e3b-bbbdb5f1796f.gif)  
 Note: in this preview, the number of enemies and their HP have been reduced.
 
 ## Screenshots
